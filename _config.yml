@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: [The title of your site]
 description: [A short description of your site's purpose]
 url: http://eeel.site
-logo: [http://eeel.site/logo]
+logo: [http://eeel.site/logo.png]
 #show_downloads: ["true"]
 #google_analytics: [Your Google Analytics tracking ID]
