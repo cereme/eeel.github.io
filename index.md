@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
+About us
+=============
 
- * Theme test
+Our Projects
+=============
+
+Members
+=============
