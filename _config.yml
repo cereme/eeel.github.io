@@ -3,5 +3,6 @@ title: Team EEEL
 description: Process-driven Creative Startup
 url: http://eeel.site
 logo: /logo_512.png
+is_user_page: true
 #show_downloads: ["true"]
 #google_analytics: [Your Google Analytics tracking ID]
