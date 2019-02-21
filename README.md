@@ -4,4 +4,3 @@
 # Contact to Cereme(Engineer)
  * **bsy@breadlab.net** (recommended)
  * http://github.com/cereme
- * http://twitter.com/ceremep
